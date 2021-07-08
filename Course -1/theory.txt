@@ -1,0 +1,38 @@
+Files are of two types -> program files (.exe) and data files (.txt, .docx etc)
+
+A program is a collection of data and a set of operations or instructions of on that data
+
+*Low level vs High level language*
+
+LL -> machine language, assembly language
+HL -> c, c++, python, java etc.
+
+
+
+1. Check errors
+2. Convert into Machine Code    //if error is there in any line, it will not work and produce the .exe file
+3. Execution    //interpreter does this, not compiler
+
+In interpreter, every line is checked line by line and executes it line by line.
+
+Compiler programs are faster
+Interpreter languages are easier
+
+Hybrid languages
+
+Java, C#
+
+Byte code by compiler
+JVM translates into Machine code by interpreter.
+
+Programming paradigm -- styles
+
+1. Monolithic -- single body code
+2. Modular/Procedural -- reusing using functions, main is the manager for functions and structures
+3. Object-oriented -- class includes structures and functions in it and defines it and call it to the main
+4. Aspect oriented/Component assembly
+
+*Algorithm*
+
+Step by step prodecures for solving computational problems.
+
