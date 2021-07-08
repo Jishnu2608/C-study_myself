@@ -36,3 +36,10 @@ Programming paradigm -- styles
 
 Step by step prodecures for solving computational problems.
 
+*Flowchart*
+
+eclipse -- start/stop
+parallelogram -- input/ouput
+rectangle -- process
+diamond -- condition
+arrow -- Flow
