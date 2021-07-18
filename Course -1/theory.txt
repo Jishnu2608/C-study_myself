@@ -54,3 +54,41 @@ Steps for program development and Execution
 
 for execution, the machine code is loaded into the code section. For variables, it is stored in stack. 
 Heap is in middle of code section and stack.
+
+
+Datatypes -- Numeric and Characters
+
+Primitive datatypes -- primitive, user-defined, derived
+primitive -- integral, bool, floating point
+             int, char        float, double
+
+userdefined -- enum, structure, union, class
+derived -- array, pointer, reference
+
+Size of datatypes
+
+data types  size             range
+int         2/4             -32768 to 32767
+float       4               -3.4x10^-38 to 3.4x10^38
+double      8               -1.7x10^308 to 1.7x10^308
+char        1               -128 to 127
+bool        undefined       true/false
+
+ASCII codes -- char codes
+
+Modifiers -- unsigned, long
+
+unsigned int -- 0-65535
+unsigned char-- 0-255
+long int -- 4/8 bytes
+long double -- 10 bytes
+
+Operators and expressions
+
+Arithmetic: +,-,*,/,%
+Relational: <,>,=,>=,<=
+Logical: &&,||,!
+Bitwise: &,~,^,
+Increment/decrement: ++, --
+Assignment: =
+
