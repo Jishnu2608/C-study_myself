@@ -43,3 +43,14 @@ parallelogram -- input/ouput
 rectangle -- process
 diamond -- condition
 arrow -- Flow
+
+Steps for program development and Execution
+
+1. editing
+2. compiling
+3. linking library
+4. loading
+5. Execution
+
+for execution, the machine code is loaded into the code section. For variables, it is stored in stack. 
+Heap is in middle of code section and stack.
